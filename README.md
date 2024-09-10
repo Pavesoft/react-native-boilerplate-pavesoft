@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Welcome to React Native Boilterplate 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -24,16 +24,44 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 
-## Learn more
+## Libraries Used
 
-To learn more about developing your project with Expo, look at the following resources:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### Navigation
 
-## Join the community
+- [React Navigation:](https://reactnavigation.org/docs/getting-started) Routing and navigation for Expo and React Native apps.
 
-Join our community of developers creating universal apps.
+### Styling and UI
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- [React Native Paper:](https://callstack.github.io/react-native-paper/docs/guides/getting-started/) A high-quality, standard-compliant Material Design library for React Native.
+
+- [Styled Components:](https://www.npmjs.com/package/styled-components) Styling components with tagged template literals.
+
+- [Expo Vector Icons:](https://icons.expo.fyi/Index) Icon library for Expo.
+
+- [React Native SVG Transformer:](https://www.npmjs.com/package/react-native-svg-transformer) Transform SVG files into React components.
+
+### Storage
+
+- [Async Storage:](https://www.npmjs.com/package/@react-native-async-storage/async-storage) An asynchronous, unencrypted, persistent, key-value storage system for React Native.
+
+- [Expo Secure Store:](https://www.npmjs.com/package/expo-secure-store) Provides a way to encrypt and securely store key–value pairs locally on the device.
+
+### Additional Libraries
+
+- [react-native-safe-area-context:](https://www.npmjs.com/package/react-native-safe-area-context) A library to handle safe area insets for iOS and Android devices.
+
+- [react-native-size-matters:](https://www.npmjs.com/package/react-native-size-matters) A utility to scale and size elements consistently across different screen sizes and densities.
+
+
+## Usage of ESLint
+
+ESLint is used in this project to ensure code quality and consistency. It helps in identifying and fixing problematic patterns or code that doesn’t adhere to the defined coding standards. The ESLint configuration used in this project is based on the Airbnb JavaScript Style Guide, which is a popular style guide for JavaScript development.
+
+To run ESLint, use the following command:
+
+   ```bash
+   yarn lint
+   ```
+
+This will check the codebase for any linting issues based on the configured rules.
