@@ -2,7 +2,9 @@
 
 This boilerplate provides a robust starting point for React Native development, pre-configured with essential libraries and a structured folder layout. Designed to streamline your development process, this template integrates key tools and practices to help you build high-quality mobile applications efficiently.
 
- It includes a bottom tab navigator and five sample dummy pages to help you get started quickly with navigation and screen management.
+It includes a bottom tab navigator and five sample dummy pages to help you get started quickly with navigation and screen management.
+
+This is an Expo project created with create-expo-app.
 
 ## Features
 
