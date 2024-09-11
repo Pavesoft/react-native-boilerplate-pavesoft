@@ -4,7 +4,7 @@ This boilerplate provides a robust starting point for React Native development, 
 
 It includes a bottom tab navigator and five sample dummy pages to help you get started quickly with navigation and screen management.
 
-This is an Expo project created with create-expo-app.
+This is an Expo project created with `create-expo-app`.
 
 ## Features
 
