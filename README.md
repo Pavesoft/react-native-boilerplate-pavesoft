@@ -6,7 +6,7 @@ It includes a bottom tab navigator and five sample dummy pages to help you get s
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Features
+## Key Features
 
 - **Expo Integration**: Leverage the power of Expo for a streamlined development experience across Android, iOS, and web platforms.
 - **Pre-configured Libraries**: Includes essential libraries such as React Navigation for routing, React Native Paper for UI components, and [many more](https://github.com/Pavesoft/react-native-boilerplate-pavesoft/blob/features/navigation/README.md#libraries-used)
