@@ -45,7 +45,7 @@ In the output, you'll find options to open the app in a
 
 ### Navigation
 
-- [React Navigation:](https://reactnavigation.org/docs/getting-started) Routing and navigation for Expo and React Native apps. (Implemented in `features/navigation` branch)
+- [React Navigation:](https://reactnavigation.org/docs/getting-started) Routing and navigation for Expo and React Native apps.
 
 ### Styling and UI
 
