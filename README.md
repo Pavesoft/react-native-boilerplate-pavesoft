@@ -13,6 +13,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 - **Bottom Tab Navigator**: Comes with a pre-configured bottom tab navigator to facilitate easy screen transitions.
 - **Sample Dummy Pages**: Five dummy pages are included by default to provide a starting point for your app’s content and layout.
 
+## List of branches
+
+- `main`: The default branch with core setup and configuration.
+- `features/navigation`: Contains the navigation implementation, including the bottom tab navigator and sample dummy pages.
+
 ## Get started
 
 1. Install dependencies
