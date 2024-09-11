@@ -7,7 +7,7 @@ This boilerplate provides a robust starting point for React Native development, 
 ## Features
 
 - **Expo Integration**: Leverage the power of Expo for a streamlined development experience across Android, iOS, and web platforms.
-- **Pre-configured Libraries**: Includes essential libraries such as React Navigation for routing, React Native Paper for UI components, and many more... [view libraries used](https://github.com/Pavesoft/react-native-boilerplate-pavesoft/blob/features/navigation/README.md#libraries-used)
+- **Pre-configured Libraries**: Includes essential libraries such as React Navigation for routing, React Native Paper for UI components, and [many more](https://github.com/Pavesoft/react-native-boilerplate-pavesoft/blob/features/navigation/README.md#libraries-used)
 - **Bottom Tab Navigator**: Comes with a pre-configured bottom tab navigator to facilitate easy screen transitions.
 - **Sample Dummy Pages**: Five dummy pages are included by default to provide a starting point for your app’s content and layout.
 
