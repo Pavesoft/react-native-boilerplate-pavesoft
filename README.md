@@ -1,4 +1,4 @@
-# Welcome to React Native Boilterplate 👋
+# Welcome to React Native Boilerplate 👋
 
 This boilerplate provides a robust starting point for React Native development, pre-configured with essential libraries and a structured folder layout. Designed to streamline your development process, this template integrates key tools and practices to help you build high-quality mobile applications efficiently.
 
